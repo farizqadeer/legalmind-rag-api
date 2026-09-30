@@ -1,0 +1,19 @@
+.env
+.env.local
+
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+env/
+ENV/
+
+# The vector database — never commit, it gets rebuilt from documents/
+chroma_db/
+
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/

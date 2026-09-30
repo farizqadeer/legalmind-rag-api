@@ -1,0 +1,46 @@
+NON-DISCLOSURE AGREEMENT
+
+SECTION 1: DEFINITION OF CONFIDENTIAL INFORMATION
+Confidential Information includes all technical data, trade secrets,
+know-how, research, product plans, products, services, customer lists,
+markets, software, developments, inventions, processes, formulas,
+technology, designs, drawings, and financial information disclosed by
+either party.
+
+SECTION 2: OBLIGATIONS OF RECEIVING PARTY
+The Receiving Party agrees to hold all Confidential Information in strict
+confidence and not to disclose such information to any third party without
+prior written consent of the Disclosing Party. The Receiving Party shall
+use the same degree of care to protect the Confidential Information as it
+uses for its own confidential information, but no less than reasonable care.
+
+SECTION 3: EXCLUSIONS
+This Agreement imposes no obligation with respect to information that:
+was already known to the Receiving Party prior to disclosure, becomes
+publicly available through no fault of the Receiving Party, is rightfully
+received from a third party without restriction, or is independently
+developed without use of Confidential Information.
+
+SECTION 4: DURATION OF CONFIDENTIALITY
+Both parties agree to maintain confidentiality of proprietary information
+for a period of 2 years following termination of this agreement, or
+following the completion of the business relationship, whichever occurs
+later. For trade secrets specifically, confidentiality obligations shall
+survive indefinitely.
+
+SECTION 5: RETURN OF MATERIALS
+Upon termination of this Agreement or upon request by the Disclosing Party,
+the Receiving Party shall promptly return or destroy all documents and
+materials containing Confidential Information.
+
+SECTION 6: REMEDIES FOR BREACH
+Both parties acknowledge that breach of this Agreement may cause
+irreparable harm for which monetary damages would be inadequate.
+The Disclosing Party shall be entitled to seek injunctive relief in
+addition to any other remedies available at law, and may pursue damages
+claim for actual losses incurred due to the breach.
+
+SECTION 7: GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the
+laws of Pakistan, and any disputes shall be subject to the exclusive
+jurisdiction of the courts of Lahore.
